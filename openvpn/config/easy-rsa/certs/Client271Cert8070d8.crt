@@ -1,0 +1,134 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 690 (0x2b2)
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=US, ST=OH, L=Columbus, O=VikingVPN, OU=MyOrganizationalUnit, CN=VikingVPN CA/name=EasyRSA/emailAddress=me@myhost.mydomain
+        Validity
+            Not Before: Jan  2 17:48:45 2014 GMT
+            Not After : Dec 31 17:48:45 2023 GMT
+        Subject: CN=Client271Cert8070d8
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:ca:10:77:2e:49:c0:ac:e3:ca:d8:80:66:9c:51:
+                    f6:33:99:61:62:08:5a:ae:b2:08:d1:f2:e1:c6:6f:
+                    f9:40:db:6d:18:0e:60:f2:69:d1:d7:9e:73:01:0e:
+                    43:bd:45:fb:e5:5a:71:4f:3d:8a:58:54:1c:6a:2c:
+                    b6:7f:a6:51:54:1d:01:de:27:9f:da:d4:91:8c:a6:
+                    ef:5a:48:45:44:2b:fc:9b:0a:42:4c:d2:38:a1:ab:
+                    20:39:04:c9:79:d0:d3:cf:0b:e6:1c:0a:ac:2b:ad:
+                    d6:b4:d2:cc:9f:f0:7e:bc:47:67:22:5e:4b:a3:da:
+                    13:f9:7f:c2:98:63:3a:8c:44:25:0b:c0:6a:d6:23:
+                    27:06:5b:ed:3f:0e:5d:02:67:b0:19:6c:f6:c5:45:
+                    d7:bf:d5:8d:9a:d4:e6:93:43:7a:2d:60:d6:c1:a1:
+                    1d:27:26:b2:22:cd:7c:4b:9c:30:72:c2:07:48:90:
+                    87:cb:7e:41:fc:c6:2a:dd:d5:e5:69:5f:c9:3c:23:
+                    d2:0f:a0:be:5f:ed:0e:28:fa:b3:33:16:6b:5b:c9:
+                    0f:7a:f1:d1:05:93:f7:94:a2:d1:58:8a:20:0e:1e:
+                    9c:95:d7:0a:74:dc:46:2f:c5:49:44:3f:b4:22:bf:
+                    0e:24:de:a9:de:ed:28:9f:7c:53:19:d9:ea:f9:cc:
+                    ad:97:2b:24:9c:4b:04:02:ef:8f:b8:0e:c1:56:d2:
+                    c7:ee:90:2b:ef:b4:6d:ad:6e:3f:e9:9c:b9:74:d3:
+                    85:f6:b1:24:34:99:0f:74:e9:e9:87:51:2e:b9:c9:
+                    df:b2:f4:5b:2c:91:fa:01:a8:58:00:ad:67:d4:92:
+                    f8:d8:40:f7:92:53:c4:b1:46:13:35:d6:d2:7f:c0:
+                    3e:6f:f8:2d:57:85:66:6c:92:33:65:61:b3:56:1a:
+                    45:ab:03:e4:8f:fb:29:02:82:b6:43:b5:c1:43:68:
+                    26:cb:76:e5:92:61:8a:d3:c2:69:7e:ee:30:53:4a:
+                    54:76:bc:91:2d:30:42:ca:a4:54:2c:5f:5d:0f:d6:
+                    fd:98:2e:b9:b3:34:cf:5a:2e:f9:fe:1e:89:48:dc:
+                    10:c1:33:05:4e:9c:d4:b5:bc:b3:25:04:b1:93:ed:
+                    ea:ea:c7:90:79:a0:9e:9c:da:0d:bd:fd:bb:f5:9d:
+                    06:d6:23:f2:ba:a5:74:67:8a:b8:00:52:5a:96:d1:
+                    d4:07:8e:c1:00:b9:27:d2:35:7a:6b:0a:fa:e7:88:
+                    0a:2f:87:a7:e0:74:f5:0a:ef:93:ec:c4:ba:63:de:
+                    48:41:3a:a3:6f:b3:46:12:61:9f:20:b2:be:a5:e6:
+                    8c:48:57:f3:e6:e1:a7:09:57:26:b8:7d:e3:64:67:
+                    36:d6:41
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                C5:19:3B:5A:65:BC:28:35:F2:11:A3:E1:EB:C9:06:ED:03:DC:9E:AE
+            X509v3 Authority Key Identifier: 
+                keyid:12:CD:60:04:D2:A0:80:9E:70:ED:C6:99:B8:7B:2C:C6:52:FD:19:A1
+                DirName:/C=US/ST=OH/L=Columbus/O=VikingVPN/OU=MyOrganizationalUnit/CN=VikingVPN CA/name=EasyRSA/emailAddress=me@myhost.mydomain
+                serial:CF:35:85:EE:80:BF:2A:3E
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: md5WithRSAEncryption
+         c8:8b:c9:50:13:e3:1c:c4:2f:3b:ee:6e:0b:71:aa:11:16:24:
+         cd:ac:c0:20:7d:34:18:9b:40:c5:fd:ea:8e:75:3d:96:ad:7f:
+         c5:7f:b7:a6:be:03:51:d4:1f:cf:92:bc:f5:41:cf:53:f5:1c:
+         60:16:12:d2:52:83:b4:60:3a:bf:fa:c2:8a:2b:b4:1f:9c:62:
+         17:d6:c3:68:4b:f7:7e:53:1f:95:9a:80:2e:16:aa:24:91:a4:
+         af:5d:cc:42:18:ff:fe:94:b2:ea:10:37:0b:d1:c9:71:32:17:
+         35:d2:1c:c3:2c:3e:c8:1f:29:cf:06:92:46:af:60:56:82:e9:
+         f8:3e:c0:af:b4:5f:bc:24:c1:59:28:c8:fb:9c:b2:94:c7:c2:
+         8d:e8:ae:a7:b2:31:47:7d:fa:e8:ad:d8:ee:ef:95:95:f1:35:
+         76:76:24:12:21:1d:23:e9:bb:8f:4c:99:ae:36:35:94:59:91:
+         42:06:d2:8e:2f:bd:57:9b:ec:22:e2:7f:e8:38:c0:ce:3f:ac:
+         27:e8:da:db:37:c2:33:71:40:a2:49:64:8e:ae:29:98:3f:32:
+         16:d6:e5:5f:53:7c:06:e0:17:a9:59:85:23:c6:7f:3a:d5:54:
+         60:8b:dd:c0:dc:ba:2b:a2:9b:a0:03:bb:f9:93:f9:fe:05:1f:
+         dd:45:dd:ac:71:ea:92:99:20:55:37:c7:39:52:61:b0:91:2f:
+         fc:b5:a6:13:dc:d2:3a:ce:32:11:2e:1f:fd:38:3a:6b:26:02:
+         60:bd:77:f7:d0:20:7e:94:35:36:c5:a4:b0:d9:23:21:b6:aa:
+         ea:75:c0:b9:87:2c:e9:e8:01:36:d3:44:81:46:52:45:bd:da:
+         f6:a1:69:e1:1c:d9:8c:4b:7e:c7:44:40:08:1c:7b:4a:6b:84:
+         07:8f:95:a1:95:32:19:85:b0:3b:8b:a1:bd:0d:59:7c:b7:1a:
+         c5:e5:bf:99:00:4b:47:0d:ed:ca:96:3c:e5:48:ff:1b:aa:06:
+         34:7e:57:b5:1a:6d:61:76:5d:d0:28:67:14:ef:27:6c:f4:f5:
+         bb:05:50:48:25:9b:2f:05:e4:fc:68:11:01:d4:56:36:7f:12:
+         6e:25:d7:70:ae:38:19:4d:cf:e0:54:18:4c:10:bc:45:aa:41:
+         2c:e1:bb:c4:2d:ad:83:21:db:ad:3e:44:c9:79:21:36:fb:bb:
+         16:6d:05:b3:9a:e1:08:7c:fd:e7:0b:7b:f2:4b:9d:8e:0b:b0:
+         e3:b9:3a:92:c7:8a:ac:3f:c7:00:79:79:fb:ee:52:e5:be:21:
+         f5:3f:65:43:df:44:45:4c:7f:8b:db:e4:9f:32:0d:dd:08:02:
+         49:b2:79:0c:1d:03:6c:3c
+-----BEGIN CERTIFICATE-----
+MIIGrDCCBJSgAwIBAgICArIwDQYJKoZIhvcNAQEEBQAwgawxCzAJBgNVBAYTAlVT
+MQswCQYDVQQIEwJPSDERMA8GA1UEBxMIQ29sdW1idXMxEjAQBgNVBAoTCVZpa2lu
+Z1ZQTjEdMBsGA1UECxMUTXlPcmdhbml6YXRpb25hbFVuaXQxFTATBgNVBAMTDFZp
+a2luZ1ZQTiBDQTEQMA4GA1UEKRMHRWFzeVJTQTEhMB8GCSqGSIb3DQEJARYSbWVA
+bXlob3N0Lm15ZG9tYWluMB4XDTE0MDEwMjE3NDg0NVoXDTIzMTIzMTE3NDg0NVow
+HjEcMBoGA1UEAxMTQ2xpZW50MjcxQ2VydDgwNzBkODCCAiIwDQYJKoZIhvcNAQEB
+BQADggIPADCCAgoCggIBAMoQdy5JwKzjytiAZpxR9jOZYWIIWq6yCNHy4cZv+UDb
+bRgOYPJp0deecwEOQ71F++VacU89ilhUHGostn+mUVQdAd4nn9rUkYym71pIRUQr
+/JsKQkzSOKGrIDkEyXnQ088L5hwKrCut1rTSzJ/wfrxHZyJeS6PaE/l/wphjOoxE
+JQvAatYjJwZb7T8OXQJnsBls9sVF17/VjZrU5pNDei1g1sGhHScmsiLNfEucMHLC
+B0iQh8t+QfzGKt3V5WlfyTwj0g+gvl/tDij6szMWa1vJD3rx0QWT95Si0ViKIA4e
+nJXXCnTcRi/FSUQ/tCK/DiTeqd7tKJ98UxnZ6vnMrZcrJJxLBALvj7gOwVbSx+6Q
+K++0ba1uP+mcuXTThfaxJDSZD3Tp6YdRLrnJ37L0WyyR+gGoWACtZ9SS+NhA95JT
+xLFGEzXW0n/APm/4LVeFZmySM2Vhs1YaRasD5I/7KQKCtkO1wUNoJst25ZJhitPC
+aX7uMFNKVHa8kS0wQsqkVCxfXQ/W/ZguubM0z1ou+f4eiUjcEMEzBU6c1LW8syUE
+sZPt6urHkHmgnpzaDb39u/WdBtYj8rqldGeKuABSWpbR1AeOwQC5J9I1emsK+ueI
+Ci+Hp+B09Qrvk+zEumPeSEE6o2+zRhJhnyCyvqXmjEhX8+bhpwlXJrh942RnNtZB
+AgMBAAGjggFjMIIBXzAJBgNVHRMEAjAAMC0GCWCGSAGG+EIBDQQgFh5FYXN5LVJT
+QSBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUwHQYDVR0OBBYEFMUZO1plvCg18hGj4evJ
+Bu0D3J6uMIHhBgNVHSMEgdkwgdaAFBLNYATSoICecO3Gmbh7LMZS/RmhoYGypIGv
+MIGsMQswCQYDVQQGEwJVUzELMAkGA1UECBMCT0gxETAPBgNVBAcTCENvbHVtYnVz
+MRIwEAYDVQQKEwlWaWtpbmdWUE4xHTAbBgNVBAsTFE15T3JnYW5pemF0aW9uYWxV
+bml0MRUwEwYDVQQDEwxWaWtpbmdWUE4gQ0ExEDAOBgNVBCkTB0Vhc3lSU0ExITAf
+BgkqhkiG9w0BCQEWEm1lQG15aG9zdC5teWRvbWFpboIJAM81he6Avyo+MBMGA1Ud
+JQQMMAoGCCsGAQUFBwMCMAsGA1UdDwQEAwIHgDANBgkqhkiG9w0BAQQFAAOCAgEA
+yIvJUBPjHMQvO+5uC3GqERYkzazAIH00GJtAxf3qjnU9lq1/xX+3pr4DUdQfz5K8
+9UHPU/UcYBYS0lKDtGA6v/rCiiu0H5xiF9bDaEv3flMflZqALhaqJJGkr13MQhj/
+/pSy6hA3C9HJcTIXNdIcwyw+yB8pzwaSRq9gVoLp+D7Ar7RfvCTBWSjI+5yylMfC
+jeiup7IxR3366K3Y7u+VlfE1dnYkEiEdI+m7j0yZrjY1lFmRQgbSji+9V5vsIuJ/
+6DjAzj+sJ+ja2zfCM3FAoklkjq4pmD8yFtblX1N8BuAXqVmFI8Z/OtVUYIvdwNy6
+K6KboAO7+ZP5/gUf3UXdrHHqkpkgVTfHOVJhsJEv/LWmE9zSOs4yES4f/Tg6ayYC
+YL1399AgfpQ1NsWksNkjIbaq6nXAuYcs6egBNtNEgUZSRb3a9qFp4RzZjEt+x0RA
+CBx7SmuEB4+VoZUyGYWwO4uhvQ1ZfLcaxeW/mQBLRw3typY85Uj/G6oGNH5XtRpt
+YXZd0ChnFO8nbPT1uwVQSCWbLwXk/GgRAdRWNn8SbiXXcK44GU3P4FQYTBC8RapB
+LOG7xC2tgyHbrT5EyXkhNvu7Fm0Fs5rhCHz95wt78kudjguw47k6kseKrD/HAHl5
+++5S5b4h9T9lQ99ERUx/i9vknzIN3QgCSbJ5DB0DbDw=
+-----END CERTIFICATE-----
